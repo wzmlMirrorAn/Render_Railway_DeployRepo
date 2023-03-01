@@ -1,6 +1,6 @@
 # REQUIRED CONFIG
 
-BOT_TOKEN = "5484397752:AAGQozkiBZE8clMtv_enMWmcpqBMIo2RvJ0"                              # Require restart after changing it while bot running
+BOT_TOKEN = "5484397752:AAHZCa--PPHOb2xwuH3yo1-5S6looJGu89o"                              # Require restart after changing it while bot running
 
 OWNER_ID = "1942447812"                               # Require restart after changing it while bot running
 
